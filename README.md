@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JuanitoLoopez
 - 👀 I’m interested in Frontend Develepment.
 - 🌱 I’m currently learning Reactjs.
-- 💞️ I’m looking to collaborate on Open Source.
+- 💞️ I’m looking to collaborate on Open Source Projects.
 - 📫 Reach me on juanitolopezprofessional.com
 
 <!---
